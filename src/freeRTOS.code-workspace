@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../.."
+		},
+		{
+			"name": "test-freeRTOS",
+			"path": "../../../../../../Users/Rcell Asus/Documents/PlatformIO/Projects/test-freeRTOS"
+		}
+	],
+	"settings": {}
+}
